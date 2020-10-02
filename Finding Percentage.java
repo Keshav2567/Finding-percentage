@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class vinayak {
+public class Finding Percentage {
 	public static void main(String[] args) {
 		//plz like :")
 		Scanner sc=new Scanner(System.in);
